@@ -1,0 +1,10 @@
+C:\Users\karam\source\repos\ai2ai\obj\Debug\ai2ai.csprojAssemblyReference.cache
+C:\Users\karam\source\repos\ai2ai\obj\Debug\ai2ai.Form1.resources
+C:\Users\karam\source\repos\ai2ai\obj\Debug\ai2ai.Properties.Resources.resources
+C:\Users\karam\source\repos\ai2ai\obj\Debug\ai2ai.csproj.GenerateResource.cache
+C:\Users\karam\source\repos\ai2ai\obj\Debug\ai2ai.csproj.CoreCompileInputs.cache
+C:\Users\karam\source\repos\ai2ai\bin\Debug\ai2ai.exe.config
+C:\Users\karam\source\repos\ai2ai\bin\Debug\ai2ai.exe
+C:\Users\karam\source\repos\ai2ai\bin\Debug\ai2ai.pdb
+C:\Users\karam\source\repos\ai2ai\obj\Debug\ai2ai.exe
+C:\Users\karam\source\repos\ai2ai\obj\Debug\ai2ai.pdb
